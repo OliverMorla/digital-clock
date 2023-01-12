@@ -4,4 +4,12 @@
 
 The HTML of the project would consist on a simple div or p element where the clock will be placed. Then, in javascript, the first step is to access that element and store in a variable. Then, using setInterval method, the time can be updated in a specific interval. Each time the interval is reached, the function will update the element's innerHTML with the current time format(ex. hh:mm:ss::ms). Additional features such as the ability to change the time format or color scheme wil be implemented using CSS and JavaScript later in the future.
 
+**Preview**
 ![Screenshot (3)](https://user-images.githubusercontent.com/73266650/211951246-bb18bfdd-3261-4718-8336-dc6d32ea25b5.png)
+
+# Changelog
+ **Date Format: mm/dd/yy**
+
+**01/12/23**
+- No Changes
+
