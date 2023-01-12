@@ -7,6 +7,8 @@ The HTML of the project would consist on a simple div or p element where the clo
 # Preview
 ![Screenshot (3)](https://user-images.githubusercontent.com/73266650/211951246-bb18bfdd-3261-4718-8336-dc6d32ea25b5.png)
 
+**Link: https://rawcdn.githack.com/OliverMorla/digitalStopWatch/2922f46d501f2bd67129a1daf258d57a9a925537/index.html **
+
 # Changelog
  **Date Format: mm/dd/yy**
 
